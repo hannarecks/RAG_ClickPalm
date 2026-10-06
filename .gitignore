@@ -1,0 +1,26 @@
+# Segredos e variáveis de ambiente
+.env
+.env.*
+ 
+# Dados sensíveis (laudos de pacientes) e banco vetorial
+RAG_exames/
+rag_chroma_db/
+chroma_db/
+*.pdf
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+ 
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

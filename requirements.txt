@@ -1,0 +1,28 @@
+# Núcleo LangChain / LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+ 
+# LLM (Mistral AI)
+langchain-mistralai
+ 
+# Embeddings (Hugging Face)
+langchain-huggingface
+sentence-transformers
+hf_xet
+ 
+# Banco vetorial
+langchain-chroma
+ 
+# Leitura de PDFs
+pypdf
+pillow
+ 
+# Utilitários
+python-dotenv
+ 
+# Notebook e visualização do grafo
+ipython
+jupyter
